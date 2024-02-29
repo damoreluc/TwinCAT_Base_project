@@ -33,4 +33,5 @@ Progetto di base per TwinCAT3 da utilizare come template per nuovi progetti da g
 9. avviare **TwinCAT3**
 10. dal menu `File -> Apri... -> Progetto/Soluzione`, selezionare il progetto appena clonato ed aprirlo. 
 Nel riquadro in basso a destra della finestra di TwinCAT3 XAE verrà indicato il nome del repository locale del progetto e il nome del branch attivo.
-11. procedere con le modifiche del codice come richiesto dal nuovo progetto ed utilizzare i comandi della sezione **Team Explorer** di TwinCAT3 XAE per il commit e la sincronizzazione col repository remoto in GitHub.
+11. Nella finestra **Esplora soluzioni** rinominare la **soluzione** e il **progetto** (le prime due righe dell'albero della soluzione)
+12. procedere con le modifiche del codice come richiesto dal nuovo progetto ed utilizzare i comandi della sezione **Team Explorer** di TwinCAT3 XAE per il commit e la sincronizzazione col repository remoto in GitHub.
